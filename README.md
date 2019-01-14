@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+Greetings
+I want to learn more about C#, JavaScript etc.
